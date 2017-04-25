@@ -1,6 +1,6 @@
 # npmdoc-gulp-image-optimization
 
-#### api documentation for  [gulp-image-optimization (v0.1.3)](https://github.com/firetix/gulp-image-optimization)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-image-optimization.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-image-optimization) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-image-optimization.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-image-optimization)
+#### basic api documentation for  [gulp-image-optimization (v0.1.3)](https://github.com/firetix/gulp-image-optimization)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-image-optimization.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-image-optimization) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-image-optimization.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-image-optimization)
 
 #### Minify PNG, JPEG and GIF images. this is based on https://github.com/sindresorhus/gulp-imagemin with stream-limit implementation
 
@@ -81,7 +81,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.1.3"
+    "version": "0.1.3",
+    "bin": {}
 }
 ```
 
